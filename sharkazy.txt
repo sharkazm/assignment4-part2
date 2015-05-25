@@ -1,1 +1,24 @@
+Start:  Fri, 8 May 2015, 12:00 pm
+End:  Fri, 8 May 2015, 4:00 pm
+Tasks:  Extensive review of readings and lectures.  Begin coding basic structure/style of website.
+
+Start:  Sat, 9 May 2015, 3:00 pm
+End:  Fri, 9 May 2015, 6:00 pm
+Tasks:  Begin writing basic functions and MySQL queries.
+
+Start:  Sun, 10 May 2015, 2:00 pm
+End:  Sun, 10 May 2015 4:00 pm
+Tasks:  Attempted to finalize.  Encountered multiple bugs.  Unable to complete quality product.
+
+Start:  Mon, 11 May 2015 12:00 pm
+End:  Mon, 11 May 2015 5:00 pm
+Tasks:  Debugging.  Somehow lost the delete function which was previously working.  Unable to debug.
+
+Start:  Fri, 15 May 2015 2:00 pm
+End:  Fri, 15 May 2015, 4:00 pm
+Tasks:  Debugging.  Adjusting style/layout.
+
+Start:  Sun, 24 May 2015 5:00 pm
+End:  Sun, 24 May 2015, 10:00 pm
+Tasks:  Debugging.  Design style/layout.  Unable to debug issue with deleting an inventory item.  It was previously working so it’s likely a simple error but as of this typing I’m unable to correct it.  
 
